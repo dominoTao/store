@@ -2,74 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8158e22-e601-44c1-90cd-e015b5d06a28" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" />
-      <change beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/jsp/index.jsp" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/jsp/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/build/classes/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/base/controler/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/base/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/base/util/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/address/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/address/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/address/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/address/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/address/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/address/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/cart/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/cart/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/cart/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/cart/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/cart/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/cart/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/classes/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/classes/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/classes/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/classes/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/classes/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/classes/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/customer/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/customer/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/customer/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/customer/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/customer/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/customer/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/employee/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/employee/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/employee/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/employee/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/employee/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/employee/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/firstClass/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/firstClass/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/firstClass/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/firstClass/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/firstClass/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/firstClass/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/goods/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/goods/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/goods/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/goods/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/goods/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/goods/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/indent/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/indent/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/indent/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/indent/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/indent/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/indent/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/index/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/index/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/index/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/index/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/index/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/index/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/secondClass/controller/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/secondClass/dao/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/secondClass/dao/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/secondClass/model/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/secondClass/service/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/shxt/modual/secondClass/service/impl/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/beans.xml" afterPath="$PROJECT_DIR$/src/beans.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,101 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="CustomerDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/customer/dao/CustomerDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CustomerDaoImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/customer/dao/impl/CustomerDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="0">
               <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CustomerController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/customer/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2268">
-              <caret line="105" column="11" lean-forward="false" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j2.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="beans.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beans.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/address/add.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hiddenList.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/customer/hiddenList.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/customer/list.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddressDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/address/dao/impl/AddressDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddressController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/address/controller/AddressController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="81">
+              <caret line="107" column="23" lean-forward="true" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -227,6 +80,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="store" type="58d84e3e:PackageViewProjectNode" />
+              <item name="store" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -422,6 +288,23 @@
             <path>
               <item name="store" type="b2602c69:ProjectViewProjectNode" />
               <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shxt" type="462c0819:PsiDirectoryNode" />
+              <item name="modual" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shxt" type="462c0819:PsiDirectoryNode" />
+              <item name="modual" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -457,20 +340,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="store" type="58d84e3e:PackageViewProjectNode" />
-              <item name="store" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -667,11 +537,12 @@
       <workItem from="1543804318842" duration="72000" />
       <workItem from="1543885913039" duration="569000" />
       <workItem from="1543898273992" duration="151000" />
+      <workItem from="1548211601868" duration="1052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3562000" />
+    <option name="totallyTimeSpent" value="4614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -691,7 +562,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26126608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26502147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -719,22 +590,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/customer/hiddenList.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/customer/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/address/dao/impl/AddressDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -952,20 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shxt/base/controler/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shxt/base/dao/impl/BaseDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/employee/service/impl/EmployeeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1039,7 +880,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/customer/dao/CustomerDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="0">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
@@ -1047,40 +888,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/customer/dao/impl/CustomerDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="0">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/customer/controller/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="105" column="11" lean-forward="false" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/customer/hiddenList.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1093,26 +902,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/address/controller/AddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/address/dao/impl/AddressDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="27">
           <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-webmvc-4.2.2.RELEASE.jar!/org/springframework/web/servlet/view/UrlBasedViewResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#7692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shxt/base/controler/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/employee/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="46" column="49" lean-forward="false" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shxt/base/dao/impl/BaseDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/customer/hiddenList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/jsp/address/add.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="27">
           <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/address/controller/AddressController.java">
+    <entry file="file://$PROJECT_DIR$/src/beans.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="-675">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shxt/modual/customer/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="107" column="23" lean-forward="true" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
           <folding />
         </state>
       </provider>
